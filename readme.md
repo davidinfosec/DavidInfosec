@@ -16,5 +16,8 @@ Discover an organized approach to cybercrime reporting. Born out of my frustrati
 
 Dive into DavidInosec.com for a dynamic exploration of my technical insights. Uncover findings in an engaging way while gaining critical knowledge where documentation is scarce. Let's navigate the tech landscape together! 🚀💻 #CyberSecurity #TechInsights
 
+#### A Python Script @ [WHOIS-Domain-Info](https://github.com/davidinfosec/whois-domain-info) 
+
+This script fetches WHOIS data like Domain Name, Registrar, Expiration Date, and Days Until Expiry and organizes it in a spreadsheet. I created this one morning because I wanted to organized a large list of domain names that I manage. It speeds up a process that would have taken 4x the time and effort.
 
 
