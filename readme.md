@@ -14,7 +14,7 @@ Discover an organized approach to cybercrime reporting. Born out of my frustrati
 
 #### My Technical Blog @ [DavidInfosec.com](https://www.DavidInfosec.com)
 
-Dive into DavidInosec.com for a dynamic exploration of my technical insights. Uncover findings in an engaging way while gaining critical knowledge where documentation is scarce. Let's navigate the tech landscape together! 🚀💻 #CyberSecurity #TechInsights
+The goal with the DavidInfosec.com blog is to cultivate an environment for others to learn about my technical findings in a fun and engaging way, while also helping to provide critical insight on processes where documentation is scarce.
 
 #### A Python Script @ [WHOIS-Domain-Info](https://github.com/davidinfosec/whois-domain-info) 
 
