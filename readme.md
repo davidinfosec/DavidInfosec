@@ -4,6 +4,9 @@
 
 Hello! I'm DavidInfosec, a passionate sound engineer and developer, soon to pursue a career in network engineering and security.
 
+---
+
+## My Favorite Projects
 
 #### Contribute to a safe internet @ [ReportName.com](https://www.ReportName.com)
 
