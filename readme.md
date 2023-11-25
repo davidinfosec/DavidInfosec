@@ -11,7 +11,7 @@ Discover an organized approach to cybercrime reporting. Born out of my frustrati
 
 #### My Technical Blog @ [DavidInfosec.com](https://www.DavidInfosec.com)
 
-Dive into [DavidInfosec.com](https://www.DavidInfosec.com) for a dynamic exploration of my technical insights. Uncover findings in an engaging way while gaining critical knowledge where documentation is scarce. Let's navigate the tech landscape together! 🚀💻 #CyberSecurity #TechInsights
+Dive into DavidInosec.com for a dynamic exploration of my technical insights. Uncover findings in an engaging way while gaining critical knowledge where documentation is scarce. Let's navigate the tech landscape together! 🚀💻 #CyberSecurity #TechInsights
 
 
 
