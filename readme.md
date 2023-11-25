@@ -20,4 +20,8 @@ The goal with the DavidInfosec.com blog is to cultivate an environment for other
 
 I created this one morning because I wanted to organized a large list of domain names that I manage. It speeds up a process that would have taken nearly double or triple the time and effort. Members in the domain name industry have found value with this tool as well.
 
+#### A Python Script @ [Spotify to YouTube Link Converter](https://github.com/davidinfosec/sp.py)
+
+I created this script because I wanted to send my friends music from YouTube, but I wanted an excuse to be lazy so I could put my time toward other projects.
+
 
