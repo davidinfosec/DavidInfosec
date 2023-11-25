@@ -32,4 +32,17 @@ I created this script because I wanted to save on time and computer resources wh
 
 I created this in conjunction with a project for my church where I wanted audio streaming over the network to be automatically detected from receiving devices.
 
+#### A Python Script @ [DownloadClip](https://github.com/davidinfosec/downloadclip)
+
+DownloadClip is a tool designed to download YouTube videos with an option to clip them afterward. I developed this tool while working on a video project for my church, where the need to download multiple YouTube clips quickly led to the creation of this tool.
+
+#### A Python Script @ [IP Tool](https://github.com/davidinfosec/IP-Tool)
+
+IP Tool allows you to geolocate IP addresses and store the results in a CSV file. It utilizes the [ipinfo.io](https://ipinfo.io) API to retrieve geolocation data. An IT manager found value in this tool, using it to uncover an insider threat.
+
+#### A Python Script @ [FileHelper](https://github.com/davidinfosec/filehelper)
+
+FileHelper is a simple script designed to assist in organizing files. I created this tool to provide a quick method for creating YYYY-MM style subfolders while preserving the parent folder organization.
+
+
 
