@@ -18,6 +18,6 @@ Dive into DavidInosec.com for a dynamic exploration of my technical insights. Un
 
 #### A Python Script @ [WHOIS-Domain-Info](https://github.com/davidinfosec/whois-domain-info) 
 
-This script fetches WHOIS data like Domain Name, Registrar, Expiration Date, and Days Until Expiry and organizes it in a spreadsheet. I created this one morning because I wanted to organized a large list of domain names that I manage. It speeds up a process that would have taken nearly double or triple the time and effort. Members in the domain name industry who have found value with this tool as well.
+This script fetches WHOIS data like Domain Name, Registrar, Expiration Date, and Days Until Expiry and organizes it in a spreadsheet. I created this one morning because I wanted to organized a large list of domain names that I manage. It speeds up a process that would have taken nearly double or triple the time and effort. Members in the domain name industry have found value with this tool as well.
 
 
