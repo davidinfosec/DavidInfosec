@@ -1,5 +1,4 @@
-![banner](https://github.com/davidinfosec/DavidInfosec/assets/87215831/73e99c41-0d3e-4774-9310-fc9ef6269d50)
-
+![banner](https://github.com/davidinfosec/DavidInfosec/assets/87215831/3946b97b-3bc5-40b1-aa43-b8c2b221b2c0)
 
 
 ## About Me
