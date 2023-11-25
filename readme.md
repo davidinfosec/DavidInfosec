@@ -44,5 +44,9 @@ IP Tool allows you to geolocate IP addresses and store the results in a CSV file
 
 FileHelper is a simple script designed to assist in organizing files. I created this tool to provide a quick method for creating YYYY-MM style subfolders while preserving the parent folder organization.
 
+#### A Python Script @ [Domain Name Ninja](https://github.com/davidinfosec/Domain-Name-Ninja)
+
+Domain Name Ninja is a tool I created to streamline the process of finding available domain names. By combining word list A with word list B, the tool automates a process that would otherwise take hours.
+
 
 
