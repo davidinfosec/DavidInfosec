@@ -26,7 +26,7 @@ I created this script because I wanted to send my friends music from YouTube, bu
 
 #### A Python Script @ [Ely.gg CLI Lookup-Tool](https://github.com/davidinfosec/Ely.gg-CLI-Lookup-Tool)
 
-I created this script because I wanted to save on time and computer resources when looking up community-submitted prices for items in a popular video game, RuneScape 3.
+I created this script because I wanted to save on time and computer resources when looking up community-submitted prices for items in a popular video game.
 
 #### A Python Script @ [Audio-Stream Detection (VBAN Protocol)](https://github.com/davidinfosec/VBAN-Stream-Detect)
 
