@@ -7,7 +7,7 @@ Hello! I'm DavidInfosec, a passionate sound engineer and developer, soon to purs
 
 ## My Technical Blog @ DavidInfosec.com
 
-My goal with DavidInfosec.com is to cultivate an environment for others to learn about technical in a fun and engaging way, while also helping to provide critical insight on processes where documentation is scarce.
+My goal with DavidInfosec.com is to cultivate an environment for others to learn about my technical findings in a fun and engaging way, while also helping to provide critical insight on processes where documentation is scarce.
 
 ## 🚫 Crush Cyber Scammers at the Source with ReportName.com!
 
