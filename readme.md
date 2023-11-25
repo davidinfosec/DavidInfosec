@@ -18,7 +18,7 @@ The goal with the DavidInfosec.com blog is to cultivate an environment for other
 
 #### A Python Script @ [WHOIS-Domain-Info](https://github.com/davidinfosec/whois-domain-info) 
 
-I created this one morning because I wanted to organized a large list of domain names that I manage. It speeds up a process that would have taken nearly double or triple the time and effort. Members in the domain name industry have found value with this tool as well.
+I created WHOIS-Domain-Info one morning because I wanted to organized a large list of domain names that I manage. It speeds up a process that would have taken nearly double or triple the time and effort. Members in the domain name industry have found value with this tool as well.
 
 #### A Python Script @ [Spotify to YouTube Link Converter](https://github.com/davidinfosec/sp.py)
 
@@ -26,11 +26,11 @@ I created this script because I wanted to send my friends music from YouTube, bu
 
 #### A Python Script @ [Ely.gg CLI Lookup-Tool](https://github.com/davidinfosec/Ely.gg-CLI-Lookup-Tool)
 
-I created this script because I wanted to save on time and computer resources when looking up community-submitted prices for items in a popular video game.
+Ely.gg CLI Lookup was created because I wanted to save on time and computer resources when looking up community-submitted prices for items in a popular video game.
 
 #### A Python Script @ [Audio-Stream Detection (VBAN Protocol)](https://github.com/davidinfosec/VBAN-Stream-Detect)
 
-I created this in conjunction with a project for my church where I wanted audio streaming over the network to be automatically detected from receiving devices.
+I created Audio-Stream-Detection in conjunction with a project for my church where I wanted audio streaming over the network to be automatically detected from receiving devices.
 
 #### A Python Script @ [DownloadClip](https://github.com/davidinfosec/downloadclip)
 
