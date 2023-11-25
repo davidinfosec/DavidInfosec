@@ -24,4 +24,8 @@ I created this one morning because I wanted to organized a large list of domain 
 
 I created this script because I wanted to send my friends music from YouTube, but I wanted an excuse to be lazy so I could put my time toward other projects.
 
+#### A Python Script @ [Ely.gg CLI Lookup-Tool](https://github.com/davidinfosec/Ely.gg-CLI-Lookup-Tool)
+
+I created this script because I wanted to save on time and computer resources when looking up community-submitted prices for items in a popular MMO, RuneScape.
+
 
