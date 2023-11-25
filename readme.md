@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm DavidInfosec, a passionate audio engineer and developer, soon to pursue a career in network engineering and security.
+Hello! I'm David, a passionate audio engineer and developer, soon to pursue a career in network engineering and security.
 
 ---
 
