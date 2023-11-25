@@ -30,6 +30,6 @@ I created this script because I wanted to save on time and computer resources wh
 
 #### A Python Script @ [Audio-Stream Detection (VBAN Protocol)](https://github.com/davidinfosec/VBAN-Stream-Detect)
 
-I created this in conjunction with a project for my church where I wanted audio streaming over the network from a laptop to automatically be detected by another computer.
+I created this in conjunction with a project for my church where I wanted audio streaming over the network to be detected automatically from receiving devices.
 
 
