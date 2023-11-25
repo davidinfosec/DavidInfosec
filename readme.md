@@ -28,4 +28,8 @@ I created this script because I wanted to send my friends music from YouTube, bu
 
 I created this script because I wanted to save on time and computer resources when looking up community-submitted prices for items in a popular video game, RuneScape 3.
 
+#### A Python Script @ [Audio-Stream Detection (VBAN Protocol)](https://github.com/davidinfosec/VBAN-Stream-Detect)
+
+I created this in conjunction with a project for my church where I wanted audio streaming over the network from a laptop to automatically be detected by a Raspberry Pi.
+
 
