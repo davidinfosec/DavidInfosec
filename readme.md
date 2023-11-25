@@ -5,10 +5,13 @@
 Hello! I'm DavidInfosec, a passionate sound engineer and developer, soon to pursue a career in network engineering and security.
 
 
-## My Technical Blog @ DavidInfosec.com
+#### Contribute to a safe internet @ [ReportName.com](https://www.ReportName.com)
 
-My goal with DavidInfosec.com is to cultivate an environment for others to learn about my technical findings in a fun and engaging way, while also helping to provide critical insight on processes where documentation is scarce.
+Discover an organized approach to cybercrime reporting. Born out of my frustrations with tab chaos, this platform allows visual tracking of resources. Respected by industry professionals, it's more than a project—it's a commitment to a safer internet.
 
-## 🚫 Crush Cyber Scammers at the Source with ReportName.com!
+#### My Technical Blog @ [DavidInfosec.com](https://www.DavidInfosec.com)
 
-This is a platform that provides an organized approach to reporting cybercrime, birthed out of my own frustrations with managing multiple tabs when I was taking action against threat actors through security vendor platforms. I wanted an answer to my own issue where I could visually keep track of each resource I would utilize, and soon it became a tool that would provide value to others. It is supported and well-respected by industry professionals, and that has encouraged me to pursue it as more than just a project.
+Dive into [DavidInfosec.com](https://www.DavidInfosec.com) for a dynamic exploration of my technical insights. Uncover findings in an engaging way while gaining critical knowledge where documentation is scarce. Let's navigate the tech landscape together! 🚀💻 #CyberSecurity #TechInsights
+
+
+
