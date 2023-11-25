@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm DavidInfosec, a passionate sound engineer and front-end developer, soon to pursue a career in network engineering and security.
+Hello! I'm DavidInfosec, a passionate sound engineer and developer, soon to pursue a career in network engineering and security.
 
 
 ## My Technical Blog @ DavidInfosec.com
