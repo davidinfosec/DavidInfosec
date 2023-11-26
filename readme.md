@@ -11,7 +11,7 @@ Hello! I'm David, a passionate audio engineer and developer, soon to pursue a ca
 
 #### Python Script @ [Easy Template](https://www.github.com/davidinfosec/easy-template)
 
-I created Easy Template sponteaneously to help with a task at my church that would usually take me thirty minutes. I then realized how useful it would be to a larger audience, so I tweaked it to work for a variety of projects.
+I created Easy Template sponteaneously to help with a task at my church that would usually take me thirty minutes to an hour a month, plus a headache. I then realized how useful it would be to a larger audience, so I tweaked it to work for a variety of projects.
 
 
 ## My Favorite Projects
