@@ -7,6 +7,13 @@ Hello! I'm David, a passionate audio engineer and developer, soon to pursue a ca
 
 ---
 
+## Most Recent Project:
+
+#### Python Script @ [Easy Template](https://www.github.com/davidinfosec/easy-template)
+
+Easy Template is a Python script designed to simplify the creation of project templates. It enables users to quickly set up the structure of their projects with minimal effort, saving time and enhancing project organization.
+
+
 ## My Favorite Projects
 
 #### Contribute to a safe internet @ [ReportName.com](https://www.ReportName.com)
