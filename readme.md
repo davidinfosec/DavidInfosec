@@ -11,7 +11,7 @@ Hello! I'm David, a passionate audio engineer and developer, soon to pursue a ca
 
 #### Python Script @ [Easy Template](https://www.github.com/davidinfosec/easy-template)
 
-Easy Template is a Python script designed to simplify the creation of project templates. It enables users to quickly set up the structure of their projects with minimal effort, saving time and enhancing project organization.
+I created easy template sponteaneously to help with a task at my church that would usually take me thirty minutes. I then realized how useful it would be to a larger audience, so I tweaked it to work for a variety of projects.
 
 
 ## My Favorite Projects
