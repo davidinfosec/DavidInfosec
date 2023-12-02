@@ -14,11 +14,6 @@ Hello! I'm David, a passionate audio engineer and developer, soon to pursue a ca
 
 Task Runway is by far my most favorite tool, and not because it's my most recent. This is what I consider, a runway to all your favorite tools, because it can serve as a central hub for all your custom scripts. My personal use-case is having scripts in random places on my computer and not having to worry about where they are, because Task Runway can do all the management on the backend. It's also an amazing tool for those who are less technical. A great example is for implementation at my church, where the sound team would need to run the [Easy Template](https://www.github.com/davidinfosec/easy-template) script, it makes it way easier for everyone. 
 
-#### Python Script @ [Easy Template](https://www.github.com/davidinfosec/easy-template)
-
-I created Easy Template sponteaneously to help with a task at my church that would usually take me thirty minutes to an hour a month, plus a headache. I then realized how useful it would be to a larger audience, so I tweaked it to work for a variety of projects.
-
-
 ## My Favorite Projects
 
 #### Contribute to a safe internet @ [ReportName.com](https://www.ReportName.com)
@@ -28,6 +23,10 @@ Discover an organized approach to cybercrime reporting. Born out of my frustrati
 #### My Technical Blog @ [DavidInfosec.com](https://www.DavidInfosec.com)
 
 The goal with the DavidInfosec.com blog is to cultivate an environment for others to learn about my technical findings in a fun and engaging way, while also helping to provide critical insight on processes where documentation is scarce.
+
+#### Python Script @ [Easy Template](https://www.github.com/davidinfosec/easy-template)
+
+I created Easy Template sponteaneously to help with a task at my church that would usually take me thirty minutes to an hour a month, plus a headache. I then realized how useful it would be to a larger audience, so I tweaked it to work for a variety of projects.
 
 #### A Python Script @ [WHOIS-Domain-Info](https://github.com/davidinfosec/whois-domain-info) 
 
