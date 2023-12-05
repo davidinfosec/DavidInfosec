@@ -10,7 +10,7 @@ Hello! I'm David, a passionate audio engineer and developer, soon to pursue a ca
 
 ## My Most Recent Project:
 
-#### Python Script @ [Task Runway](https://www.github.com/davidinfosec/task-runway)
+#### C# Software / Python Script @ [Task Runway](https://www.github.com/davidinfosec/task-runway)
 
 Task Runway is by far my most favorite tool, and not because it's my most recent. This is what I consider, a runway to all your favorite tools, because it can serve as a central hub for all your custom scripts. My personal use-case is having scripts in random places on my computer and not having to worry about where they are, because Task Runway can do all the management on the backend. It's also an amazing tool for those who are less technical. A great example is for implementation at my church, where the sound team would need to run the [Easy Template](https://www.github.com/davidinfosec/easy-template) script, it makes it way easier for everyone. 
 
