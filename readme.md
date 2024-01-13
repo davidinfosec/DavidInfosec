@@ -10,11 +10,17 @@ Hello! I'm David, a passionate audio engineer and developer, soon to pursue a ca
 
 ## My Most Recent Project:
 
-#### C# Software / Python Script @ [Task Runway](https://www.github.com/davidinfosec/task-runway)
+#### Blog post @ [Email Server Deployment to help alert scam victims](https://davidinfosec.com/2024/01/alerting-scam-victims-with-self-hosted-email/)
 
-Task Runway is by far my most favorite tool, and not because it's my most recent. This is what I consider, a runway to all your favorite tools, because it can serve as a central hub for all your custom scripts. My personal use-case is having scripts in random places on my computer and not having to worry about where they are, because Task Runway can do all the management on the backend. It's also an amazing tool for those who are less technical. A great example is for implementation at my church, where the sound team would need to run the [Easy Template](https://www.github.com/davidinfosec/easy-template) script, it makes it way easier for everyone. 
+One of my most recent projects is a self-hosted email server that I deployed one morning because a scammer accidentally slipped up and didn't hide their victim list in the email thread. I took advantage of their list of over 400 potential victims as an opportunity to alert them with a friendly email and get hands-on practice with a self-hosted email server, running in a Docker container with a cloud provider. Read more about it [here](https://davidinfosec.com/2024/01/alerting-scam-victims-with-self-hosted-email/)
+
+
 
 ## My Favorite Projects
+
+#### Task Runway @ [TaskRunway.com](https://www.TaskRunway.com) - C# Software / Python Script
+
+Task Runway is by far my one of my most favorite tools. This is what I consider, a runway to all your favorite tools, because it can serve as a central hub for all your custom scripts. My personal use-case is having scripts in random places on my computer and not having to worry about where they are, because Task Runway can do all the management on the backend. It's also an amazing tool for those who are less technical. A great example is for implementation at my church, where the sound team would need to run the [Easy Template](https://www.github.com/davidinfosec/easy-template) script, it makes it way easier for everyone. 
 
 #### Contribute to a safe internet @ [ReportName.com](https://www.ReportName.com)
 
