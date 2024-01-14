@@ -10,13 +10,18 @@ Hello! I'm David, a passionate audio engineer and developer, soon to pursue a ca
 
 ## My Most Recent Project:
 
-#### Blog post @ [Email Server Deployment to help alert scam victims](https://davidinfosec.com/2024/01/alerting-scam-victims-with-self-hosted-email/)
+#### Blog post @ [How I've been refining my homelab](https://davidinfosec.com/2024/01/how-ive-been-refining-my-homelab/)
 
-One of my most recent projects is a self-hosted email server that I deployed one morning because a scammer accidentally slipped up and didn't hide their victim list in the email thread. I took advantage of their list of over 400 potential victims as an opportunity to alert them with a friendly email and get hands-on practice with a self-hosted email server, running in a Docker container with a cloud provider. Read more about it [here](https://davidinfosec.com/2024/01/alerting-scam-victims-with-self-hosted-email/)
+I recently upgraded from my traditional method of using PfSense’s built in DNS Resolver to translate to my local domain names, and I pointed the DNS in the resolver to a container running Nginx Proxy Manager. I've also deployed lots of different containerized services to help make life easier in the local network.
+
 
 
 
 ## My Favorite Projects
+
+#### Blog post @ [Email Server Deployment to help alert scam victims](https://davidinfosec.com/2024/01/alerting-scam-victims-with-self-hosted-email/)
+
+One of my most recent projects is a self-hosted email server that I deployed one morning because a scammer accidentally slipped up and didn't hide their victim list in the email thread. I took advantage of their list of over 400 potential victims as an opportunity to alert them with a friendly email and get hands-on practice with a self-hosted email server, running in a Docker container with a cloud provider. Read more about it [here](https://davidinfosec.com/2024/01/alerting-scam-victims-with-self-hosted-email/)
 
 #### Task Runway @ [TaskRunway.com](https://www.TaskRunway.com) - C# Software / Python Script
 
