@@ -10,14 +10,15 @@ Hello! I'm David, a passionate audio engineer and developer, soon to pursue a ca
 
 ## My Most Recent Project:
 
+#### Blog post @ [Configuring OpenVPN, PfSense, FreeRADIUS Authentication](https://davidinfosec.com/2024/01/configuring-pfsense-openvpn-freeradius/)
+
+I played around with FreeRADIUS and PfSense to facilitate a remote solution for my personal network maintenance. My FreeRADIUS server is the authentication for my OpenVPN Client, with a TOTP + Passcode combo. I configured dynamic DNS to ensure a long-lasting solution in the midst of an inevitable WAN IP change. Check it out!
+
+## My Favorite Projects
+
 #### Blog post @ [How I've been refining my homelab](https://davidinfosec.com/2024/01/how-ive-been-refining-my-homelab/)
 
 I recently upgraded from my traditional method of using PfSense’s built in DNS Resolver to translate to my local domain names, and I pointed the DNS in the resolver to a container running Nginx Proxy Manager. I've also deployed lots of different containerized services to help make life easier in the local network.
-
-
-
-
-## My Favorite Projects
 
 #### Blog post @ [Email Server Deployment to help alert scam victims](https://davidinfosec.com/2024/01/alerting-scam-victims-with-self-hosted-email/)
 
